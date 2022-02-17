@@ -6,3 +6,5 @@ A demo video of all three systems used in the study can be viewed in `Demo VisVe
 
 `Data_Analysis.zip` contains the data files and python code used in data analysis.
 If you have Jupyter Notebook installed, simply run `Data Analysis.ipynb`.
+
+An interactive version of Fig. 5 in the paper can be viewed [here](https://gracegsy.github.io/VisRecResults/).
